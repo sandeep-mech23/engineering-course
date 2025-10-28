@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    background-color: rgb(243, 188, 116);
+    border-radius: 7px;
+   
+}
+
+h2{
+    text-align: center;
+     text-decoration: underline;
+}
+
+p{
+    font-size: 1.5em;
+    
+}
+
+h3{
+    font-size: 1.6em;
+    
+}
+
+*{
+    background-color: aliceblue;
+}
+
+
+

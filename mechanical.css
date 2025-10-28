@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 10px 40px;
+}
+
+p{
+  font-size: larger;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+
+ul{
+    display: flex;
+   text-decoration: underline;
+    padding: 10px,30px;
+    justify-content: space-between;
+    list-style: none;
+}
+
+ a:hover{
+    color: rgb(240, 8, 0);
+    background-color: burlywood;
+    border-radius: 3px;
+}
+
+li{
+    font-size: larger;
+    background-color: rgb(85, 241, 241);
+    border-radius: 3px;
+    color: black;
+}
+
