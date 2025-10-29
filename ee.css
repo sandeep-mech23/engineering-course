@@ -1,0 +1,17 @@
+/*  steps to add background cover photo------
+body {
+    background-image: url('electrical\ wallpaper.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+       */
+h2{
+    text-align: center;
+    background-color: rgb(237, 188, 124);
+    padding: 10px 30px;
+    border-radius: 7px;
+}
+
+p{
+    text-align: center;
+}
